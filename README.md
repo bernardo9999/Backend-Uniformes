@@ -4,12 +4,7 @@
 This awesome project was created automatically with <a href="https://github.com/worldsibu/convector-cli" target="_blank">Convector CLI</a>.
 By default new Convector projects locally include <a href="https://github.com/worldsibu/hurley">Hurley</a> to manage your development environment seamlessly, so you don't have to worry about setting up the network and hard ways to install  and upgrade your chaincodes.
 
-## Collaborate to the Convector Suite projects
-
-* <a href="https://community.covalentx.com" target="_blank">Discord chat with the community</a>
-* <a href="https://github.com/worldsibu" target="_blank">Convector projects</a>
-=======
-## Uniformes
+# Como implementar
 
 1. Instalar Ambiente Hyplerledger
 ```
@@ -44,4 +39,9 @@ npm install
 ```
 
 6. Os dados já encontram-se carregados, agora podemos proceder para compilar o front-end de Uniformes.
->>>>>>> affb107c43b47f46b2e1845dab5c645074a3e3cb
+
+## Collaborate to the Convector Suite projects
+
+* <a href="https://community.covalentx.com" target="_blank">Discord chat with the community</a>
+* <a href="https://github.com/worldsibu" target="_blank">Convector projects</a>
+=======
