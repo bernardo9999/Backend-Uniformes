@@ -1,0 +1,91 @@
+[
+    {
+        "function": "initContrato",
+        "verb": "post",
+        "controller": "UniformesController"
+    },
+    {
+        "function": "createContrato",
+        "verb": "post",
+        "controller": "UniformesController"
+    },
+    {
+        "function": "getOneContrato",
+        "verb": "get",
+        "controller": "UniformesController"
+    },
+    {
+        "function": "getAllContrato",
+        "verb": "get",
+        "controller": "UniformesController"
+    },
+    {
+        "function": "getAllContratoId",
+        "verb": "get",
+        "controller": "UniformesController"
+    },    
+    {
+        "function": "getHistoryContrato",
+        "verb": "get",
+        "controller": "UniformesController"
+    },    
+    {
+        "function": "deleteContrato",   
+        "verb": "post",
+        "controller": "UniformesController"
+    },
+    {
+        "function": "createLote",
+        "verb": "post",
+        "controller": "UniformesController"
+    },
+    {
+        "function": "updateLote",
+        "verb": "post",
+        "controller": "UniformesController"
+    },
+    {
+        "function": "getAllLote",
+        "verb": "get",
+        "controller": "UniformesController"
+    },
+    {
+        "function": "getAllLoteId",
+        "verb": "get",
+        "controller": "UniformesController"
+    },
+    {
+        "function": "getOneLote",
+        "verb": "post",
+        "controller": "UniformesController"
+    },
+    {
+        "function": "getHistoryTransaction",
+        "verb": "post",
+        "controller": "UniformesController"
+    },
+    {
+        "function": "createUniforme",
+        "verb": "post",
+        "controller": "UniformesController"
+    },
+    {
+        "function": "updateUniforme",
+        "verb": "post",
+        "controller": "UniformesController"
+    }, {
+        "function": "getOneParticipant",
+        "verb": "get",
+        "controller": "UniformesController"
+    },
+    {
+        "function": "registerParticipant",
+        "verb": "post",
+        "controller": "UniformesController"
+    },
+    {
+        "function": "changeParticipantIdentity",
+        "verb": "post",
+        "controller": "UniformesController"
+    }
+]

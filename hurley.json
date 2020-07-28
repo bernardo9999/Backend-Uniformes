@@ -1,0 +1,13 @@
+  {
+    "channels": ["ch1"],
+    "topology": {
+      "org1": {
+        "channels": ["ch1"],
+        "users": ["Compras","Fabricante","Transportadora","CD","Fornecedor"]
+      },
+      "org2": {
+        "channels": ["ch1"],
+        "users": ["Compras","Fabricante","Transportadora","CD","Fornecedor"]
+      }
+    }
+  }

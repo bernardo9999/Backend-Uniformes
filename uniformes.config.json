@@ -1,0 +1,27 @@
+{
+  "txTimeout": 300000,
+  "skipInit": true,
+  "controllers": [
+    {
+      "name": "uniformes-cc",
+      "version": "file:./packages/uniformes-cc",
+      "controller": "UniformesController"
+    }
+  ],
+  "policy": {
+    "identities": [
+      {
+        "role": {
+          "name": "member",
+          "mspId": "Org1MSP"
+        }
+      },
+      {
+        "role": {
+          "name": "member",
+          "mspId": "Org2MSP"
+        }
+      }
+    ]
+  }
+}
