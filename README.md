@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Uniformes
 
 This awesome project was created automatically with <a href="https://github.com/worldsibu/convector-cli" target="_blank">Convector CLI</a>.
