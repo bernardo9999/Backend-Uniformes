@@ -21,5 +21,6 @@ sudo npm i @worldsibu/conv-rest-api
 
 4. Uma vez concluido devemos executar ./restart.sh dentro da pasta seguradoraUniformes. Este comando ira gerar o ambiente de Blockchain, compilar e realizar o deploy do contrato inteligente e upload dos dados.
 
+5. Os dados já encontram-se carregados, agora podemos proceder para compilar o front-end de Uniformes.
 
   
